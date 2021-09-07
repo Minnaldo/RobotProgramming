@@ -11,7 +11,7 @@ DC 모터는 브러쉬를 통한 기계적인 접촉 구조이냐 아니냐에 �
   - 단점 : Brush의 접촉을 통해서 회전에 따라 전기자 전류의 극성이 바뀌게 되므로, ***기계적 소음과 전기적 잡음이 심하며 내구성이 떨어짐.
 
 <br>
-<img src="./img/Brushed_DC_Motor.PNG" width = 20%><br>**Brushed_DC_Motor**</img>
+<img src="./img/Brushed_DC_Motor.PNG" width = 60%><br>**Brushed_DC_Motor**</img>
 2. BLDC 모터는 Brushr 가 제거된 형태입니다. 위 그림에서 보이듯 BLDC 모터는 가운데 영구자석으로 되어있는 회전자, 고정자의 이빨에 권선이 감겨있는 형태입니다.
    또한, BLDC 모터의 영구자석(회전자)을 회전 시키기 위해서는 영구자석의 위치 및 극성에 따라 회전자에서 정확한 시점과 정확한 방향으로 자속을 발생시켜야 합니다.
    [ 홀센서 - 3개  :  영구자석의 위치를 검출하기 위해 ]
@@ -23,5 +23,5 @@ DC 모터는 브러쉬를 통한 기계적인 접촉 구조이냐 아니냐에 �
 BLDC 전동기를 구동시키기 위해서는 회전자(영구자석)가 회전하도록 영구자석의 위치에 따라 고정자의 권선에 전류를 흘려서 자속을 발생시킬 권선을 순시적으로 바꾸어 주어야 합니다.
 
 <br>
-<img src="./img/BLDC_Cycle_Sequence.PNG" width = 20%><br>**BLDC 전동기의 회전 순서**</img>
+<img src="./img/BLDC_Cycle_Sequence.PNG" width = 60%><br>**BLDC 전동기의 회전 순서**</img>
 
