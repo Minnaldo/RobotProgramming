@@ -54,6 +54,7 @@ BLDC 모터의 Rotor(회전자)는 영구 자석입니다.
 4. 그 이후 코일에서는 반대의 극성의 전압이 발생합니다.
 5. 이 과정은 반복되며 회전자는 계속해서 반복합니다.
 
+
 <br>
 <img src="./img/BLDC_Motor_Movement7.PNG" width = 60%>**BLDC 모터 동작**</img>
 <img src="./img/BLDC_Motor_fault.PNG" width = 60%>**BLDC 작동 중, 단점**</img>
