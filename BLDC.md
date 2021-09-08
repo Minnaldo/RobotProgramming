@@ -40,7 +40,7 @@ BLDC 모터의 Rotor(회전자)는 영구 자석입니다.
 코일에 전원이 들어가면서 전자석이 됩니다.
 
 <br>
-<img src="./img/BLDC_Motor_Movement.PNG" width = 60%>**BLDC 모터 동작**</img>
+<img src="./img/BLDC_Motor_Movement.PNG" width = 60%>**BLDC**</img>
 <img src="./img/BLDC_Motor_Movement2.PNG" width = 60%>**BLDC 모터 동작**</img>
 <img src="./img/BLDC_Motor_Movement3.PNG" width = 60%>**BLDC 모터 동작**</img>
 <img src="./img/BLDC_Motor_Movement4.PNG" width = 60%>**BLDC 모터 동작**</img>
@@ -49,10 +49,10 @@ BLDC 모터의 Rotor(회전자)는 영구 자석입니다.
 
 <br>
 1. 코일 A에 전류가 흐르면 반대쪽 극에서 회전자와 고정자가 서로를 끌어 당기고
-2. 코일 A에서 코일 B로 가까워지면서 코일 B에 동력이 발생합니다.
-3. 마찬가지로, 회저자가 코일 B에서 코일 C로 갈 때, 동력이 발생합니다.
-4. 그 이후 코일에서는 반대의 극성의 전압이 발생합니다.
-5. 이 과정은 반복되며 회전자는 계속해서 반복합니다.
+2. 코일 A에서 코일 B로 가까워지면서 코일 B에 동력이 발생합니다
+3. 마찬가지로, 회저자가 코일 B에서 코일 C로 갈 때, 동력이 발생합니다
+4. 그 이후 코일에서는 반대의 극성의 전압이 발생합니다
+5. 이 과정은 반복되며 회전자는 계속해서 반복합니다
 
 
 <br>
