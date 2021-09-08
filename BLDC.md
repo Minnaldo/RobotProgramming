@@ -16,5 +16,5 @@ DC 모터는 브러쉬를 통한 기계적인 접촉 구조이냐 아니냐에 �
 <br>
 ## BLDC 모터의 구동 원리
 BLDC 전동기를 구동시키기 위해서는 회전자(영구자석)가 회전하도록 영구자석의 위치에 따라 고정자의 권선에 전류를 흘려서 자속을 발생시킬 권선을 순시적으로 바꾸어 주어야 합니다.
-<img src="./img/BLDC_Cycle_Sequence.PNG" width = 60%><br>**BLDC 전동기의 회전 순서**</img>
+<img src="./img/BLDC_Cycle_Sequence.PNG" width = 60%>**BLDC 전동기의 회전 순서**</img>
 
