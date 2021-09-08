@@ -63,13 +63,39 @@ BLDC 모터 단점
 - 단 하나의 코일에만 전기가 흐르고 다른 두 개의 모터에는 전기가 흐르지 않기 때문에, 모터의 힘이 많이 줄어든다.
 
 <img src="./img/BLDC_Motor_trick.PNG" width = 60%>**BLDC 모터 힘 출력 트릭**</img>
+<img src="./img/BLDC_Motor_trick2.PNG" width = 60%>**BLDC 모터 힘 출력 트릭**</img>
+<img src="./img/BLDC_Motor_tric3k.PNG" width = 60%>**BLDC 모터 힘 출력 트릭**</img>
+<img src="./img/BLDC_Motor_trick4.PNG" width = 60%>**BLDC 모터 힘 출력 트릭**</img>
 
 *이 문제를 해결하는 트릭이 있다.
 1. 회전자가 회전자를 당기는 첫 번쨰 코일과 함께 있을 때, 그 뒤에 있는 코일을 이용하여 이러한 방법으로 로터를 미는 방향으로 코일에 전압을 가할 수 있다.
 2. 동일한 극성의 전류가 두 번째 코일을 통과하면, 결합된 효과로 인해 모터에서 더 많은 힘이 출력된다.
-3. 
+3. 결합된 힘은 BLDC가 이 구성으로 일정한 특성을 갖도록 합니다.
+4. 이 구성에서는 2개의 코일을 개별적으로 에너자이징 해야합니다.
 
-        
+<br>
+<img src="./img/BLDC_Motor_connection.PNG" width = 60%>**BLDC 모터 연결 단순화**</img>
+<img src="./img/BLDC_Motor_connection2.PNG" width = 60%>**BLDC 모터 연결 단순화**</img>
+<img src="./img/BLDC_Motor_connection3.PNG" width = 60%>**BLDC 모터 연결 단순화**</img>
+<img src="./img/BLDC_Motor_connection4.PNG" width = 60%>**BLDC 모터 연결 단순화**</img>
+
+
+*고정자 코일 수정하여 모터의 작동 과정을 단순화 할 수 있다.
+1. 코일의 한쪽 끝을 연결하는 것으로 과정을 단순화 할 수 있다.
+2. 코일 A와 B사이에 전원을 넣었을 때, 코일을 통해 흐르는 전류는
+
+
+<img src="./img/BLDC_Motor_connection5.PNG" width = 60%>**BLDC 모터 연결 단순화**</img>
+3. BLDC 동작에서 어떦게 회전자가 지속적으로 회전하는 동안 고정자에서 동력이 발생하는 의구심을 가지게 된다.
+
+<img src="./img/BLDC_Motor_connection6.PNG" width = 60%>**BLDC 모터 연결 단순화**</img>
+4. 제어기는 회전자의 위치와 기본적인 센서의 정보가 코일의 동력을 발생하는데 결정한다.
+
+<img src="./img/BLDC_Motor_connection7.PNG" width = 60%>**BLDC 모터 연결 단순화**</img>
+5. 그리고 홀 효과 센서를 사용한다.
+
+
+
 <br>
 ## BLDC 모터의 구동 원리
 BLDC 전동기를 구동시키기 위해서는 회전자(영구자석)가 회전하도록 영구자석의 위치에 따라 고정자의 권선에 전류를 흘려서 자속을 발생시킬 권선을 순시적으로 바꾸어 주어야 합니다.
