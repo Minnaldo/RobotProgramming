@@ -32,16 +32,16 @@
 :ROS 2 커뮤니티 게시판, ROS 2 문서와 함꼐 자주 찾는 곳이 있다면 단연 소스코드를 담고 있는 ROS 2 리포지터리 (https://github.com/ros2) 이다.
 :ROS 2 기반의 프로젝트를 진행하면서 REPs(ROS Enhancement Proposals) ( https://ros.org/reps/rep-0000.html ) 리스트를 빼놓을 수 없다.
 
-*REP 3 Target Platforms ( https://ros.org/reps/rep-0003.html ) : ROS 1 배포판들의 타깃 운영체제, 사용되는 라이브러리의 종류와 버전, 프로그래밍 언어 버전 등
-*REP 103 Standard Units of Measure and Coordinate Conventions ( https://ros.org/reps/rep-0103.html ) : ROS 에서 사용되는 표준 단위와 좌표 변환
-*REP 141 ROS distribution files (https://ros.org/reps/rep-0141.html ) : ROS 패키지 배포를 위한 패킹, 테스트 및 문서화 프로세스
-*REP 149 Package Manifest Format Three Specification (https://ros.org/reps/rep-0149.html) : package.xml의 세 번째 포맷 규정
-*REP 2000 ROS 2 Releases and Target Platforms (https://ros.org/reps/rep-2000.html) : ROS 2 배포판들의 타깃 운영체제, 라이브러리 버전, 프로그래밍 언어, DDS 등
+*REP 3 Target Platforms ( https://ros.org/reps/rep-0003.html ) : ROS 1 배포판들의 타깃 운영체제, 사용되는 라이브러리의 종류와 버전, 프로그래밍 언어 버전 등 <br>
+*REP 103 Standard Units of Measure and Coordinate Conventions ( https://ros.org/reps/rep-0103.html ) : ROS 에서 사용되는 표준 단위와 좌표 변환 <br>
+*REP 141 ROS distribution files (https://ros.org/reps/rep-0141.html ) : ROS 패키지 배포를 위한 패킹, 테스트 및 문서화 프로세스 <br>
+*REP 149 Package Manifest Format Three Specification (https://ros.org/reps/rep-0149.html) : package.xml의 세 번째 포맷 규정 <br>
+*REP 2000 ROS 2 Releases and Target Platforms (https://ros.org/reps/rep-2000.html) : ROS 2 배포판들의 타깃 운영체제, 라이브러리 버전, 프로그래밍 언어, DDS 등 <br>
 *REP 2005 ROS 2 Common Packages (https://ros.org/reps/rep-2005.html) : ROS 2의 기본 패키지 리스트
 
 <br>
--다양한 API 문서가 있지만, 그중에서 가장 기본이 되고 많이 사용되는 RCLCPP 및 RCLPY API 문서는 꼭 링크 주소를 알아두도록 하자.
-*RCLCPP API 문서 ( http://docs.ros2.org/foxy/api/rclcpp/index.html )
+-다양한 API 문서가 있지만, 그중에서 가장 기본이 되고 많이 사용되는 RCLCPP 및 RCLPY API 문서는 꼭 링크 주소를 알아두도록 하자. <br>
+*RCLCPP API 문서 ( http://docs.ros2.org/foxy/api/rclcpp/index.html ) <br>
 *RCLPY API 문서 ( http://docs.ros2.org/foxy/api/rclpy/index.html )
 
 <br>
