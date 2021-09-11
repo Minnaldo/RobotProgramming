@@ -8,15 +8,15 @@
 <br>
 ## 2.2. 즐겨찾는 ROS 2 정보 및 개발 자료
 <br>
-1. ROS 커뮤니티 게시판 ( https://discourse.ros.org/ )
-2. ROS 2 문서 ( https://docs.ros.org/ )
-3. ROS 2 디자인 문서 ( http://design.ros2.org/ )
-4. ROS 위키 ( http://wiki.ros.org/ )
-5. ROSCon 페이지 ( https://roscon.ros.org/ )
-6. ROS 2 리포지터리 ( https://github.com/ros2 )
-7. REPs(ROS Enhancement Proposals) ( https://ros.org/reps/rep-0000.html )
-8. ROS 배포판 리포지터리 ( https://github.com/ros/rosdistro )
-9. ROS 2 패키지 배포 현황 ( http://repo.ros2.org/status_page/ )
+1. ROS 커뮤니티 게시판 ( https://discourse.ros.org/ ) <br>
+2. ROS 2 문서 ( https://docs.ros.org/ ) <br>
+3. ROS 2 디자인 문서 ( http://design.ros2.org/ ) <br>
+4. ROS 위키 ( http://wiki.ros.org/ ) <br>
+5. ROSCon 페이지 ( https://roscon.ros.org/ ) <br>
+6. ROS 2 리포지터리 ( https://github.com/ros2 ) <br>
+7. REPs(ROS Enhancement Proposals) ( https://ros.org/reps/rep-0000.html ) <br>
+8. ROS 배포판 리포지터리 ( https://github.com/ros/rosdistro ) <br>
+9. ROS 2 패키지 배포 현황 ( http://repo.ros2.org/status_page/ ) <br>
 10. ROS 질의응답 페이지 ( https://answers.ros.org/questions/ )
 
 <br>
