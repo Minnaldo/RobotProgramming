@@ -66,7 +66,7 @@
 
 <img src="./img/C#_Program_UI_Layout.PNG" width = 50%><br>**C# 프로그램 UI 레이아웃**</img>
 
-<br>
+ <br>
 - 코드에서는 using Wrapper; 를 추가하고 MyArithmetic 객체를 생성합니다.
 - 그리고 각 버튼의 이벤트에서는 사칙연산 함수들을 호출하면 됩니다.
 <img src="./img/SourceCode.PNG" width = 50%><br>**소스코드**</img>
