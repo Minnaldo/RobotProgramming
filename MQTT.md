@@ -69,12 +69,12 @@ QoS의 단계가 높아질수록 통신의 품질은 향상되지만, 그에 따
 
 <br>
 ## MQTT 브로커 구동하기
-  : MQTT 프로토콜을 구현하는 브로커들은 아래와 같이 여러 것들이 있습니다.
-    * Mosquitto
-    * HiveMQ
-    * mosca
-    * ActiveMQ
-    * RabbitMQ (Plug-in 형태로 지원)
+  : MQTT 프로토콜을 구현하는 브로커들은 아래와 같이 여러 것들이 있습니다. <br>
+    * Mosquitto <br>
+    * HiveMQ <br>
+    * mosca <br>
+    * ActiveMQ <br>
+    * RabbitMQ (Plug-in 형태로 지원) <br>
     
 그 중에서도 유명한 브로커 중 하나인 Mosquitto 를 사용해보도록 하겠습니다.
 =====================================================================================================================================
@@ -106,9 +106,9 @@ Broker Pattern을 간단히 그림으로 설명.
  :MQTT Broker에는 여러가지가 존재합니다.
 <br>
 
-### MQTT Broker list
+### MQTT Broker list  <br>
   : * Mosquitto    * HiveMQ    * mosca    * ActiveMQ    * RabbitMQ (Plug-in 형태로 지원)    *Paho 등 여러가지가 존재합니다. <br>
-  : Mosquitto를 많이 사용합니다.
+  : Mosquitto를 많이 사용합니다. <br>
     ->가장 많은 언어를 지원하고, 여러가지 제약은 아직 존재하지만, MQTT를 통신하는 데 있어 가장 무난합니다.
     ->실제 Facebook 에서도 Broker로 Mosquitto 를 채택해 사용 중입니다. (Facebook Messenger)
     
