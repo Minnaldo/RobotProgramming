@@ -52,9 +52,10 @@ Broker : Publisher와 Subscriber 둘을 중계하는 역할을 하며, 단일 To
 MQTT에서 Topic은 /를 사용해서 구성되기 때문에,
 
 <br>
+<br>
 <img src="./img/MQTT_IMG2.JPG" width = 60%><br>**MQTT Topic의 / 구성**</img>
 
-<br>
+
 위와 같이 계층을 구성한다면, IoT 센서와 같은 데이터를 관리하기에 매우 용이합니다.
 
 -MQTT는 QoS(Quality of Service)를 제공하는데, 총 3단계로 나뉘어져 있습니다.
