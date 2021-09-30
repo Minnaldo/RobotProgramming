@@ -106,6 +106,7 @@ Broker Pattern을 간단히 그림으로 설명.
  :MQTT를 사용하려면, 메시지를 보내는 사람과 받는 사람이 있고, 그 다음 메시지를 중계해 줄 Broker가 필요합니다. <br>
  :MQTT Broker에는 여러가지가 존재합니다.
 <br>
+
 ### MQTT Broker list
   : * Mosquitto    * HiveMQ    * mosca    * ActiveMQ    * RabbitMQ (Plug-in 형태로 지원)    *Paho 등 여러가지가 존재합니다. <br>
   : Mosquitto를 많이 사용합니다.
@@ -120,4 +121,5 @@ Broker Pattern을 간단히 그림으로 설명.
 
 <br>
 <br>
-###로봇 통신에 관련해서 사용하려는 계획??
+
+### 로봇 통신에 관련해서 사용하려는 계획??
