@@ -41,7 +41,7 @@
 - MQTT는 HTTP, TCP 등의 통신과 같이 클라이언트-서버 구조로 이루어지는 것이 아닌
   Broker, Publisher, Subscriber 구조로 이루어집니다.
   
-<img src="./img/MQTT_IMG1.jpg" width = 60%><br>**Broker, Publisher**</img>
+<img src="./img/MQTT_IMG1.JPG" width = 60%><br>**Broker, Publisher**</img>
 
 <br>
 Publisher : Topic 을 발행(publish) 하고,
@@ -52,7 +52,7 @@ Broker : Publisher와 Subscriber 둘을 중계하는 역할을 하며, 단일 To
 MQTT에서 Topic은 /를 사용해서 구성되기 때문에,
 
 <br>
-<img src="./img/MQTT_IMG2.jpg" width = 60%><br>**MQTT Topic의 / 구성**</img>
+<img src="./img/MQTT_IMG2.JPG" width = 60%><br>**MQTT Topic의 / 구성**</img>
 
 <br>
 위와 같이 계층을 구성한다면, IoT 센서와 같은 데이터를 관리하기에 매우 용이합니다.
@@ -90,7 +90,7 @@ Broker Pattern을 사용한다는 것은 HTTP, XMPP와 같이 Client-Server Mode
 
 
 <br>
-<img src="./img/MQTT_IMG3.jpg" width = 60%><br>**Broker Pattern**</img>
+<img src="./img/MQTT_IMG3.JPG" width = 60%><br>**Broker Pattern**</img>
 
 Broker Pattern을 간단히 그림으로 설명.
 스마트폰에서 어떤 데이터를 애플리케이션 서버에게 주려고 합니다. 그러면 스마트폰에서는 브로커에게 Topic를 던져주고, 메시지를 남깁니다.
